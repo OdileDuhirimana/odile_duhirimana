@@ -1,0 +1,12 @@
+{
+  "name": "express-docker-nginx",
+  "version": "1.0.0",
+  "description": "Express.js app with NGINX reverse proxy",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
